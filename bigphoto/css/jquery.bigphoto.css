@@ -1,0 +1,14 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.bigphoto-wrap {	
+	max-width: 100%;
+}
+
+.bigphoto-wrap img { 
+	float: left; /* fix vertical spacing between images */
+	max-width: 100%;
+	height: auto;
+}
